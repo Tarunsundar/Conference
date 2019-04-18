@@ -1,0 +1,79 @@
+QCon London 2019
+
+ Talk
+Politics
+2019
+2
+1
+10
+10
+2019
+2
+1
+11
+0
+true
+3
+Speaker 1
+1234
+Speaker 2
+4567
+Speaker 3
+2342
+Room 101
+true
+
+ Talk
+Talk 2
+2019
+2
+1
+11
+30
+2019
+2
+1
+12
+0
+true
+1
+Speaker name
+1234
+Room 101
+true
+
+ Talk
+The Universe
+2019
+3
+1
+12
+0
+2019
+3
+1
+12
+30
+false
+1
+Tim Peaks
+2222
+Room 102
+true
+
+ SocialEvent
+Tamil New Year
+2019
+3
+2
+3
+30
+2019
+3
+2
+5
+30
+false
+false
+B23
+false
